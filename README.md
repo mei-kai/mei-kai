@@ -1,16 +1,15 @@
-## Hi there 👋
+## 私のプロフィールを紹介します
 
-<!--
-**mei-kai/mei-kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+石田明海
+kagoshima city.
+forever 19
 
-Here are some ideas to get you started:
+## 所属
+- キャリアデザイン専門学校ITスペシャリスト科に所属しています。
+- c言語を得意としています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##趣味
+- 私はサッカーを見るのが好きです。
+- お気に入りのチームは、バルセロナ（スペイン）です。
+- 音楽が好きでたくさん聞いています。
+- J-popの魅力はたまりません。
